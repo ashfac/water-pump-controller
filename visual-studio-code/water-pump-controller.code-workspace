@@ -1,8 +1,7 @@
 {
 	"folders": [
 		{
-			"name": "water-pump-controller",
-			"path": "water-pump-controller"
+			"path": "."
 		}
 	],
 	"settings": {
