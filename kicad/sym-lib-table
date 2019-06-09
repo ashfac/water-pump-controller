@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name water-pump-eagle-import)(type Legacy)(uri ${KIPRJMOD}/water-pump-eagle-import.lib)(options "")(descr ""))
+)
